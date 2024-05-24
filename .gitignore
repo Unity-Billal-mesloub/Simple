@@ -1,0 +1,10 @@
+build*
+Xcode*
+*~
+*.pyc
+**/.ipynb_checkpoints
+coverage*
+.travis
+.vscode*
+*.orig
+.cache

@@ -1,0 +1,11 @@
+//
+// Copyright (c) 2024 INRIA
+//
+
+#ifndef __simple_test_data_config_h__
+#define __simple_test_data_config_h__
+
+#define SIMPLE_TEST_DATA_DIR "@PROJECT_SOURCE_DIR@/tests/test_data"
+
+#endif // __simple_test_data_config_h__
+
